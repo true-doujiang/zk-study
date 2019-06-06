@@ -1,0 +1,13 @@
+*.log
+*.swp
+## IDEA ##
+.idea
+.xml
+.iml
+target
+out
+.class
+.metadata
+*.iml
+*.txt
+.class
